@@ -42,7 +42,7 @@ options:
   # Action options
   actions:
     description:
-    - A list of action to configure for the task.
+    - A list of actions to configure for the task.
     - See suboptions for details on how to construct each list entry.
     - When creating a task there MUST be at least one action but when deleting
       a task this can be a null or an empty list.
